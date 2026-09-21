@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem-1-lab-00-server-monitoring", "sem-1-lab-00-server-monitoring\sem-1-lab-00-server-monitoring.csproj", "{72E3CE49-BA10-4C92-B4F9-E504594B6D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E3CE49-BA10-4C92-B4F9-E504594B6D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E3CE49-BA10-4C92-B4F9-E504594B6D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E3CE49-BA10-4C92-B4F9-E504594B6D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E3CE49-BA10-4C92-B4F9-E504594B6D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBC20336-25B6-4B3B-B0B7-925D78C0D41A}
+	EndGlobalSection
+EndGlobal
