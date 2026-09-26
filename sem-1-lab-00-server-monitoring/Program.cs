@@ -3,6 +3,12 @@ namespace lab01
 {
     class Program
     {
+        /// <summary>
+        /// TEST
+        /// </summary>
+
+
+
         public static void Main()
         {
             Random random = new Random();
